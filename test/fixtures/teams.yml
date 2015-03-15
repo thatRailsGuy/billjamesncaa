@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  mascot: MyString
+  college: MyString
+  is_eliminated: false
+  wins: 1
+  region_id: 
+  seed: 1
+
+two:
+  mascot: MyString
+  college: MyString
+  is_eliminated: false
+  wins: 1
+  region_id: 
+  seed: 1
