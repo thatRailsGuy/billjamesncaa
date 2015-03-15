@@ -1,4 +1,5 @@
 ActiveAdmin.register Team do
+  permit_params :mascot, :college, :is_eliminated, :wins, :seed
 
 
   # See permitted parameters documentation:
